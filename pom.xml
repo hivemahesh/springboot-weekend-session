@@ -10,7 +10,8 @@
 	</parent>
 	<groupId>com.companyname</groupId>
 	<artifactId>springboot-weekend-session</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
+        <packaging>war</packaging>
 	<name>springboot-weekend-session</name>
 	<description>Demo project for Spring Boot</description>
 
